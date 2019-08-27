@@ -27,7 +27,7 @@
 
 #footer3 {
     position: relative;
-    top: 95px;
+    top: 80px;
 }
 
 #footer1 {
@@ -35,3 +35,8 @@
     top: 75px;
 }
 
+@media screen and (max-width: 640px) {
+    .form-control{
+        
+    }
+}
