@@ -20,7 +20,9 @@
 }
 
 #badge3 {
-
+    position: absolute;
+    left: 35px;
+    bottom: 50px;
 }
 
 #badge4 {
