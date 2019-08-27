@@ -7,5 +7,24 @@
 }
 
 #badge1 {
-    
+    position: absolute;
+    text-align: center;
+    left: 35px;
+    bottom: 50px;
+}
+
+#badge2 {
+
+}
+
+#badge3 {
+
+}
+
+#badge4 {
+
+}
+
+#badge5 {
+
 }
