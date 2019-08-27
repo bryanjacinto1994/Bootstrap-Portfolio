@@ -15,8 +15,8 @@
 
 #badge2 {
     position: absolute;
-    left: 692px;
-    top: 480px;
+    left: 35px;
+    bottom: 50px;
 }
 
 #badge3 {
@@ -29,3 +29,9 @@
     position: relative;
     top: 95px;
 }
+
+#footer1 {
+    position: relative;
+    top: 75px;
+}
+
